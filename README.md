@@ -1,7 +1,5 @@
 
-# **data_analysis_youtube**
-
-😄
+# **Data Analysis Youtube**
 
 ## **Aim/Objectives**
 
